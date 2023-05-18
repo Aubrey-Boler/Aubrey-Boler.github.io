@@ -3,14 +3,14 @@ body{
     font: "Times New Roman";
     color:#505969;
     margin:left;
-    background-color: #75a6a2c0;
+    background-color: #a8e3debe;
     padding:10px;
 }
 
 .topnav{
     background-color: #426196;
     overflow: hidden;
-    height: 4.5%;
+    height: 6%;
    }
 
    .topnav a {
