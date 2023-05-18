@@ -3,6 +3,8 @@ body{
     font: "Times New Roman";
     color:#505969;
     margin:left;
+    background-color: #75a6a2c0;
+    padding:10px;
 }
 
 .topnav{
