@@ -10,7 +10,8 @@ body{
 .topnav{
     background-color: #426196;
     overflow: hidden;
-    height: 6%;
+    height: 8%;
+    accent-color: #A8BEE3;
    }
 
    .topnav a {
@@ -32,4 +33,11 @@ body{
   font:"Times New Roman";
   color:#505969;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
 
