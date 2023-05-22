@@ -12,6 +12,7 @@ body{
     overflow: hidden;
     height: 8%;
     accent-color: #A8BEE3;
+    margin:0;
 }
 
    .topnav a {
