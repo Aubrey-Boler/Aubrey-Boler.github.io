@@ -12,7 +12,7 @@ body{
     overflow: hidden;
     height: 8%;
     accent-color: #A8BEE3;
-   }
+}
 
    .topnav a {
   float: center;
@@ -21,7 +21,7 @@ body{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 40px;
-    }
+}
 
 .topnav a:hover {
   background-color: #A8BEE3;
@@ -39,5 +39,9 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    }
+}
 
+textarea{
+  width:400px;
+  height:400px;
+}
