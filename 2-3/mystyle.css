@@ -14,7 +14,7 @@ body,html{
 .topnav{ 
     background-color: #526fa2;
     overflow: hidden;
-    height: 4.5%;
+    height: 8%;
     accent-color: #A8BEE3;
     margin: 1px;;
 }
@@ -26,6 +26,7 @@ body,html{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 40px;
+  position:sticky;
 }
 
 .topnav a:hover {
