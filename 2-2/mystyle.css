@@ -4,9 +4,6 @@ body,html{
     color:#505969;
     margin:left;
     padding:10px;
-}
-
-.bg{
     background-image: url(https://images.pexels.com/photos/6331086/pexels-photo-6331086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     height: 100%;
     background-size: cover;
@@ -54,7 +51,7 @@ textarea{
   height:400px;
 }
 
-/*.text-block{
+.text-block{
     position: center;
     bottom: 20px;
     right: 20px;
@@ -62,4 +59,4 @@ textarea{
     color: #505969;
     padding-left: 20px;
     padding-right: 20px;
-}*/
+}
