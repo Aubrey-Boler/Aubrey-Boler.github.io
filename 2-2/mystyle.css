@@ -51,7 +51,7 @@ textarea{
 }
 
 .text-block{
-    position: absolute;
+    position: center;
     bottom: 20px;
     right: 20px;
     background-color: white;
