@@ -12,22 +12,23 @@ body,html{
 }
 
 .topnav{ 
-    background-color: #526fa2;
-    overflow: hidden;
-    height: 8%;
-    accent-color: #A8BEE3;
-    margin: 1px;
-    width:max-content;
+  background-color: #426196;
+  overflow: hidden;
+  height: 8%;
+  accent-color: #A8BEE3;
+  margin:0;
+  position: fixed;
+  top:0;
+  width:100%
 }
 
 .topnav a {
-  float: center;
+  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 40px;
-  position:sticky;
 }
 
 .topnav a:hover {
