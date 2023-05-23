@@ -16,7 +16,8 @@ body,html{
     overflow: hidden;
     height: 8%;
     accent-color: #A8BEE3;
-    margin: 1px;;
+    margin: 1px;
+    width:max-content;
 }
 
 .topnav a {
