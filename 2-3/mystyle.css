@@ -11,10 +11,10 @@ body,html{
     background-repeat: no-repeat;
 }
 
-.topnav{
+.topnav{ 
     background-color: #526fa2;
     overflow: hidden;
-    height: 8%;
+    height: 5%;
     accent-color: #A8BEE3;
     margin:0;
 }
