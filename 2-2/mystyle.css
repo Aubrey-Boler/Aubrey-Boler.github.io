@@ -4,12 +4,14 @@ body{
     color:#505969;
     margin:left;
     background-image: url(https://images.pexels.com/photos/6331086/pexels-photo-6331086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     padding:10px;
 }
 
 .topnav{
-    background-color: #426196;
+    background-color: #526fa2;
     overflow: hidden;
     height: 8%;
     accent-color: #A8BEE3;
