@@ -46,3 +46,13 @@ textarea{
   width:400px;
   height:400px;
 }
+
+.text-block{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: white;
+    color: #505969;
+    padding-left: 20px;
+    padding-right: 20px;
+}
