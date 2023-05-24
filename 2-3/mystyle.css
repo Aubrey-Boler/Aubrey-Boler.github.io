@@ -12,7 +12,7 @@ body,html{
 }
 
 .topnav{ 
-  background-color: #426196;
+  background-color: #799bd5;
   overflow: hidden;
   height: 8%;
   accent-color: #A8BEE3;
@@ -62,4 +62,9 @@ textarea{
     color: #505969;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.p{
+  font-size: 30;
+  text-align:center;
 }
