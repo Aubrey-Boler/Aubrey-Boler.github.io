@@ -13,12 +13,24 @@ cursor: pointer;
 }
   
 .sign-in {
-border-color: #2196F3;
-color: dodgerblue
+border-color: #031CFF;
+color: #031CFF;
 }
   
 .sign-in:hover {
-background: #2196F3;
+border-color: #2196F3;
 color: white;
 }
+
+.topnav{
+float:right;
+color:white;
+text-align:center;
+padding: 14px 16px;
+text-decoration: none;
+font-size:17px;
+float:right;
+}
+
+
   
