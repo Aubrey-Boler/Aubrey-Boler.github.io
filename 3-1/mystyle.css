@@ -2,15 +2,23 @@ body{
 
 }
 
-.sign-in{
-    border: 2px #2196F3;
-    background-color: white;
-    font-size:16px;
-    color:black;
-    border-radius:5px;
+.sign-in {
+border: 2px solid black;
+border-radius: 5px;
+background-color: white;
+color: black;
+padding: 14px 28px;
+font-size: 16px;
+cursor: pointer;
 }
-
+  
+.sign-in {
+border-color: #2196F3;
+color: dodgerblue
+}
+  
 .sign-in:hover {
 background: #2196F3;
 color: white;
 }
+  
