@@ -4,27 +4,43 @@ body{
 
 .sign-in {
 border: 2px solid black;
-border-radius: 5px;
+border-radius: 100px;
 background-color: white;
 color: black;
 padding: 14px 28px;
 font-size: 14px;
+line-height: 16px;
 border-color: #031CFF;
 color: #031CFF;
 font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+position: absolute;
+height: 16.96px;
+left: 1310px;
+top: 43px;
 }
 
 .topnav{
 background-color: white;
+overflow: hidden;
+}
+
+.topnav a{
 float:right;
-color:black;
-text-align:center;
+color:3D3D3D;
+text-align: center;
 padding: 14px 16px;
-text-decoration: none;
-font-size:12px;
-float:right;
-font-family: Campton;
-height: 8%;
+font-size: 12px;
+position: absolute;
+width: 398px;
+height: 17px;
+left: 855px;
+top: 44px;
+
+font-family: 'Campton';
+font-size: 12px;
+line-height: 14px;
 }
 
 
