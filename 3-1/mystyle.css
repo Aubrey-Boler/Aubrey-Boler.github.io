@@ -20,23 +20,21 @@ line-height: 16px;
 text-align: center;
 }
 
-.topnav{
-background-color: white;
-color:#3D3D3D;
-height:8%;
-overflow: hidden;
-margin:0;
-}
-
-.topnav a{
+.topnav {
+    overflow: hidden;
+    background-color: white;
+  }
+  
+.topnav a {
+float: right;
 position:absolute;
-float:right;
-
-font-family: Campton;
-font-size: 12px;
-line-height: 14px;
-text-align:center;
+color: #3D3D3D;
+text-align: center;
 padding: 14px 16px;
+text-decoration: none;
+
+font-size: 12px;
+font-family: Campton;
 }
 
 
