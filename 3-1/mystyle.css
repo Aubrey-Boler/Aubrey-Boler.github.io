@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #E5E5E5;
 }
 
 .sign-in{
@@ -21,12 +21,13 @@ text-align: center;
 }
 
 .topnav {
-    overflow: hidden;
-    background-color: white;
+overflow: hidden;
+background-color: #E5E5E5;
+float:right;
   }
   
 .topnav a {
-float: right;
+float: left;
 position:absolute;
 color: #3D3D3D;
 text-align: center;
@@ -35,6 +36,7 @@ text-decoration: none;
 
 font-size: 12px;
 font-family: Campton;
+font-weight:900;
 }
 
 
