@@ -9,33 +9,30 @@ color:#031CFF;
 border-radius: 100px;
 position: absolute;
 float:right;
-
+    
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 900;
 font-size: 14px;
 line-height: 16px;
-
-
+    
+    
 text-align: center;
 }
-
+    
 .topnav {
 overflow: hidden;
-background-color: #E5E5E5;
+background-color: white;
 float:right;
-  }
-  
+}
+      
 .topnav a {
 float: left;
-position:absolute;
 color: #3D3D3D;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
-
 font-size: 12px;
-font-family: Campton;
 font-weight:900;
 }
 
