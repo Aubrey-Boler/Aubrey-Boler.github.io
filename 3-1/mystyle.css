@@ -1,46 +1,42 @@
 body{
-
+    background-color: black;
 }
 
-.sign-in {
-border: 2px solid black;
-border-radius: 100px;
+.sign-in{
 background-color: white;
-color: black;
-padding: 14px 28px;
-font-size: 14px;
-line-height: 16px;
-border-color: #031CFF;
-color: #031CFF;
-font-family: Roboto;
+border-color:#031CFF;
+color:#031CFF;
+border-radius: 100px;
+position: absolute;
+float:right;
+
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 900;
-position: absolute;
-height: 16.96px;
-left: 1310px;
-top: 43px;
+font-size: 14px;
+line-height: 16px;
+
+
+text-align: center;
 }
 
 .topnav{
 background-color: white;
+color:#3D3D3D;
+height:8%;
 overflow: hidden;
+margin:0;
 }
 
 .topnav a{
+position:absolute;
 float:right;
-color:3D3D3D;
-text-align: center;
-padding: 14px 16px;
-font-size: 12px;
-position: absolute;
-width: 398px;
-height: 17px;
-left: 855px;
-top: 44px;
 
-font-family: 'Campton';
+font-family: Campton;
 font-size: 12px;
 line-height: 14px;
+text-align:center;
+padding: 14px 16px;
 }
 
 
