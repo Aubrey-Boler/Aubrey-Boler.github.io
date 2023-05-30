@@ -3,38 +3,38 @@ body{
 }
 
 .sign-in{
-background-color: white;
-border-color:#031CFF;
-color:#031CFF;
-border-radius: 100px;
-position: absolute;
-float:right;
+    background-color: white;
+    border-color:#031CFF;
+    color:#031CFF;
+    border-radius: 100px;
+    position: absolute;
+    float:right;
     
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 14px;
-line-height: 16px;
-
-text-align: center;
-}
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
     
-.topnav {
-overflow: hidden;
-background-color: white;
-float:right;
-}
+    
+    text-align: center;
+    }
+    
+    .topnav {
+        overflow: hidden;
+        background-color: white;
+        float:right;
+      }
       
-.topnav a {
-float: left;
-color: #3D3D3D;
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
-font-size: 12px;
-font-weight:900;
-font-family:'Campton';
-}
+      .topnav a {
+        float: left;
+        color: #3D3D3D;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight:900;
+      }
 
 
   
